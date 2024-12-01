@@ -15,9 +15,7 @@ and the repository exists.
 
 It looks like you're facing an issue with pushing your code to the GitHub repository due to permission problems. Here are a few steps to resolve this:
 
-Check if you have the correct SSH key added to your GitHub account:
-
-1.
+1. **Check if you have the correct SSH key added to your GitHub account**
 	- Generate a new SSH key if you don't have one: `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
 	- Add the generated SSH key to the SSH agent: `ssh-add ~/.ssh/id_rsa`
 	- Copy the SSH key to your clipboard: `cat ~/.ssh/id_rsa.pub`
