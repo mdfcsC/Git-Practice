@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    puts("Hello");
+    puts("hello from the other side");
     return 0;
 }
