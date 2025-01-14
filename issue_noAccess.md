@@ -21,7 +21,7 @@ It looks like you're facing an issue with pushing your code to the GitHub reposi
 	- Copy the SSH key to your clipboard: `cat ~/.ssh/id_rsa.pub`
 	- Add the SSH key to your GitHub account by navigating to [SSH and GPG keys](https://github.com/settings/keys).
 
-> Note
+> Note  
 > You have learnt about setting up ssh keys [here](https://github.com/cs-uob/software-tools/blob/main/01-sysadmin/lab/ssh.md#setting-up-ssh-keys).
 
 2. **Verify your remote repository URL**
