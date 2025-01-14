@@ -28,3 +28,6 @@ It looks like you're facing an issue with pushing your code to the GitHub reposi
 	- Run `ssh -T git@github.com` to check if you can connect to GitHub without any issues.
 
 After checking these steps, try pushing your changes again. If you encounter any issues, feel free to ask for further assistance.
+
+#### Note
+You have learnt about setting up ssh keys [here](https://github.com/cs-uob/software-tools/blob/main/01-sysadmin/lab/ssh.md#setting-up-ssh-keys)
